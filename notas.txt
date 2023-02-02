@@ -1,4 +1,0 @@
-Capítulo 1: Introducción a Git
-Capítulo 2: Flujo de trabajo básico
-Capítulo 3: Repositorios remotos
-Unidad 3 - Practica 3 - Modulo 5: Agregar una linea nueva al archivo notas.txt indicando algo nuevo para aprender ( puedes colocar lo que quieras)
