@@ -1,5 +1,29 @@
+<<<<<<< HEAD
 Capítulo 1: Introducción a Git
 Capítulo 2: Flujo de trabajo básico
 Capítulo 3: Repositorios remotos
 Unidad 3 - Practica 3 ( puedes colocar lo que quieras)
 Unidad 3 - Practica 3 ( puedes colocar lo que quieras)
+=======
+9:24 AM 2/3/2023
+ultimos cambios
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+lo que sea
+>>>>>>> 74f896fb7092c71885d87bb0d28a5658be852484
